@@ -17,6 +17,7 @@ body {
   font-size: 48px;
   margin-top: 3%;
   margin-right: 3%;
+  font-family: 'GFSDidot-Regular';
 }
 
 .bgnd-details {
@@ -51,6 +52,7 @@ body {
   text-decoration: none;
   color: black;
   margin-top: 8%;
+  font-family: 'GFSDidot-Regular';
 }
 
 .bgnd-button:hover {
