@@ -80,6 +80,52 @@ const materialDatabase = {
     ], 
     "about": "Silver, a precious metal, holds value beyond currency, commonly used for its lustrous appearance in jewelry and various applications, showcasing intricate designs and adding a touch of sophistication."
   },
+  'BAMBOO': {
+    "images": [
+      {
+        "source": "/images/materialimgs/bamboo/bamboo1.png"
+      }, 
+      {
+        "source": "/images/materialimgs/bamboo/bamboo2.png"
+      },
+      {
+        "source": "/images/materialimgs/bamboo/bamboo3.png"
+      },
+      {
+        "source": "/images/materialimgs/bamboo/bamboo4.png"
+      },
+      {
+        "source": "/images/materialimgs/bamboo/bamboo5.png"
+      },
+      {
+        "source": "/images/materialimgs/bamboo/bamboo6.png"
+      },
+    ], 
+    "about": "Bamboo, a versatile and sustainable material, is utilized in various industries for its strength and eco-friendly properties, seen in furniture, construction, and even fashion, where bamboo fabric provides a breathable and comfortable alternative."
+  },
+  'TULLE': {
+    "images": [
+      {
+        "source": "/images/materialimgs/tulle/tulle1.png"
+      }, 
+      {
+        "source": "/images/materialimgs/tulle/tulle2.png"
+      },
+      {
+        "source": "/images/materialimgs/tulle/tulle3.png"
+      },
+      {
+        "source": "/images/materialimgs/tulle/tulle4.png"
+      },
+      {
+        "source": "/images/materialimgs/tulle/tulle5.png"
+      },
+      {
+        "source": "/images/materialimgs/tulle/tulle6.png"
+      },
+    ], 
+    "about": "Tulle, a lightweight and sheer fabric, is known for its delicate and fine mesh texture, commonly used in fashion for creating ethereal and layered looks in dresses and veils."
+  },
 }
 
 export default materialDatabase;
