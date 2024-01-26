@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F6E9EF;
+}
+
+.mood-page {
+  width: 1200px;
+  height: 800px;
+  background-color: white;
+  position: absolute;
+  outline: 1.3px solid black;
+}
+
+.center-line {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 1.5px;
+  background-color: black;
+}

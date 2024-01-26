@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F6E9EF;
+}
+
+.bgnd-page {
+  width: 615px;
+  height: 800px;
+  background-color: white;
+  position: absolute;
+  margin-right: 10%;
+}
+
+.bgnd-header {
+  text-align: right;
+  font-size: 48px;
+  margin-top: 3%;
+  margin-right: 3%;
+}
+
+.bgnd-details {
+  text-align: left;
+  margin-top: 18%;
+  margin-left: 2%;
+}
+
+.bgnd-details-edition-text {
+  font-size: 14px;
+  margin-bottom: 4%;
+}
+
+.bgnd-details-prompt {
+  font-size: 16px;
+}
+
+
+.bgnd-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: white;
+  border: 1.2px solid black;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); 
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+  margin-top: 8%;
+}
+
+.bgnd-button:hover {
+  background-color: #fff1f7;
+}
