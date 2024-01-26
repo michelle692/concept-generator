@@ -19,7 +19,7 @@ const History = () => {
     <div className="history-panel">
       {history.map((prompt, index) => (
         <div className="history-tab" key={index} onClick={() => oldPrompt(prompt)}>
-          <p className="history-label"> {`Edition ${styleIndex(index)}`} </p>
+          <p className="history-label"> {styleIndex(index)} </p>
           <img src={process.env.PUBLIC_URL + prompt.artist.cover.source} alt="" className="history-cover" />
         </div>
       ))}
