@@ -5,4 +5,6 @@
   position: absolute;
   margin-top: 8%;
   margin-left: 12%;
+  overflow: hidden;
+  object-fit: cover;
 }

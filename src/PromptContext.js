@@ -1,10 +1,10 @@
 import React, { createContext, useContext, useState } from "react";
 import artistDatabase from "./data/artists";
-import eraDatabase from './data/eras';
+import erasDatabase from './data/eras';
 import materialDatabase from './data/materials';
 
 const artistNames = Object.keys(artistDatabase);
-const eraNames = Object.keys(eraDatabase);
+const eraNames = Object.keys(erasDatabase);
 const materialNames = Object.keys(materialDatabase);
 
 const numOfImages = 3;
@@ -28,7 +28,7 @@ const randomArtist = () => {
 
 const randomEra = () => {
   const era = getRandom(eraNames);
-  const images = getNRandomItems(eraDatabase[era].images, numOfImages);
+  const images = getNRandomItems(erasDatabase[era].images, numOfImages);
   return { name: era, images: images }
 }
 

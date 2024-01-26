@@ -19,12 +19,15 @@
 .history-cover {
   width: 106px;
   height: 123px;
-  margin-top: 5%;
   cursor: 'pointer';
+  margin-top: 5%;
+  overflow: hidden;
+  object-fit: cover;
+  border: 0.7px solid black;
 }
 
 .history-label {
-  margin: 0;
-  margin-top: 5%;
+  font-size: 24px;
   cursor: 'pointer';
+  margin-right: 40%;
 }

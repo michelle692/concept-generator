@@ -20,3 +20,93 @@ body {
   width: 1.5px;
   background-color: black;
 }
+
+.image-one {
+  width: 188px;
+  height: 246px;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.image-two {
+  width: 311px;
+  height: 397px;
+  position: absolute;
+  top: 210px;
+  left: 160px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.image-three {
+  width: 235px;
+  height: 188px;
+  position: absolute;
+  top: 40px;
+  left: 350px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.image-four {
+  width: 189px;
+  height: 236px;
+  position: absolute;
+  top: 520px;
+  left: 20px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.image-five {
+  width: 153px;
+  height: 202px;
+  position: absolute;
+  top: 570px;
+  left: 430px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.image-six {
+  width: 246px;
+  height: 312px;
+  position: absolute;
+  top: 20px;
+  left: 640px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.image-seven {
+  width: 235px;
+  height: 200px;
+  position: absolute;
+  top: 180px;
+  left: 920px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.image-eight {
+  width: 216px;
+  height: 226px;
+  position: absolute;
+  top: 410px;
+  left: 930px;
+  overflow: hidden;
+  object-fit: cover;
+}
+
+.image-nine {
+  width: 214px;
+  height: 285px;
+  position: absolute;
+  top: 500px;
+  left: 660px;
+  overflow: hidden;
+  object-fit: cover;
+}
