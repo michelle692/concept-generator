@@ -1,55 +1,10 @@
-const materials = [
-  'WOOD',
-  'METAL',
-  'PLASTIC',
-  'GLASS',
-  'FAUX FUR',
-  'BRICK',
-  'LEATHER',
-  'PAPER',
-  'COTTON',
-  'SILK',
-  'WOOL',
-  'LINEN',
-  'RUBBER',
-  'CERAMIC',
-  'STONE',
-  'ALUMINUM',
-  'COPPER',
-  'STEEL',
-  'GOLD',
-  'SILVER',
-  'BRONZE',
-  'BRASS',
-  'CLAY',
-  'FIBERGLASS',
-  'CARBON FIBER',
-  'POLYESTER',
-  'NYLON',
-  'VELVET',
-  'SATIN',
-  'CANVAS',
-  'ACRYLIC',
-  'LATEX',
-  'PVC',
-  'VINYL',
-  'BAMBOO',
-  'RATTAN',
-  'MARBLE',
-  'GRANITE',
-  'TITANIUM',
-  'PLASTER',
-  'PLATINUM',
-  'GRAPHITE',
-  'CHALK',
-  'MAGNESIUM',
-  'QUARTZ',
-  'SANDSTONE',
-  'PORCELAIN',
-  'GYPSUM',
-  'CORK',
-  'ACETATE',
-  'FELT',
-]
+const materialDatabase = {
+  'WOOD': {
+    'images': ['image1', 'image2', 'image3']
+  },
+  'PLASTIC': {
+    'images': ['plastic1', 'plastic2', 'plastic3']
+  }
+}
 
-export default materials;
+export default materialDatabase;

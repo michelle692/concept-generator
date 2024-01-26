@@ -1,11 +1,12 @@
 import React from 'react';
 import '../css/coverimg.css';
-import artistDatabase from '../data/artists';
+import { usePromptContext } from '../PromptContext';
 
 const Coverimg = () => {
-  const artistImage = artistDatabase['AYA TAKANO'].images[0].source;
+  const { artist } = usePromptContext();
+
   return (
-    <img src={process.env.PUBLIC_URL + artistImage} alt="" className='cover-image'>
+    <img src={process.env.PUBLIC_URL + artist.cover.source} alt="" className='cover-image'>
     </img>
   )
 };
