@@ -110,3 +110,42 @@ body {
   overflow: hidden;
   object-fit: cover;
 }
+
+.artist-about {
+  position: absolute;
+  text-align: left;
+  width: 214px;
+  height: 130px;
+  top: 330px;
+  left: 640px;
+  font-size: 12px;
+  background-color: rgba(255, 255, 255, 0.7); /* Adjust the background color and opacity */
+  padding: 10px;
+  z-index: 1;
+}
+
+.era-about {
+  position: absolute;
+  text-align: left;
+  width: 214px;
+  height: 100px;
+  top: 50px;
+  left: 900px;
+  font-size: 12px;
+  background-color: rgba(255, 255, 255, 0.7); /* Adjust the background color and opacity */
+  padding: 10px;
+  z-index: 1;
+}
+
+.material-about {
+  position: absolute;
+  text-align: left;
+  width: 214px;
+  height: 100px;
+  top: 660px;
+  left: 880px;
+  font-size: 12px;
+  background-color: rgba(255, 255, 255, 0.7); /* Adjust the background color and opacity */
+  padding: 10px;
+  z-index: 1;
+}

@@ -23,19 +23,22 @@ const randomArtist = () => {
   const artist = getRandom(artistNames);
   const cover = getRandom(artistDatabase[artist].images);
   const images = getNRandomItems(artistDatabase[artist].images, numOfImages);
-  return { name: artist, cover: cover, images: images }
+  const about = artistDatabase[artist].about
+  return { name: artist, cover: cover, images: images, about: about }
 }
 
 const randomEra = () => {
   const era = getRandom(eraNames);
   const images = getNRandomItems(erasDatabase[era].images, numOfImages);
-  return { name: era, images: images }
+  const about = erasDatabase[era].about
+  return { name: era, images: images, about: about }
 }
 
 const randomMaterial = () => {
   const material = getRandom(materialNames);
   const images = getNRandomItems(materialDatabase[material].images, numOfImages);
-  return { name: material, images: images }
+  const about = materialDatabase[material].about
+  return { name: material, images: images, about: about }
 }
 
 const PromptContext = createContext();

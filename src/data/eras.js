@@ -29,7 +29,8 @@ const erasDatabase = {
         "description": "When Queen Victoria wore this white dress of Spitalfields silk and Honiton lace to her wedding in 1840, she broke from royal custom and encouraged a lasting tradition for Western bridal fashion.",
         "source": "/images/eraimgs/1800s/queen.png"
       },
-    ]
+    ], 
+    "about": "In the early 19th century, women's fashion embraced high-waisted dresses with empire silhouettes, while men wore tailcoats and high-collared shirts."
   },
   '1850': {
     'images': [
@@ -61,7 +62,8 @@ const erasDatabase = {
         "description": "Men started wearing more freeing attire while playing sports. Stiff suits were traded for alternatives such as the reefer or Norfolk jackets, often in tweed or flannel. Long pants were traded for knee-length breeches.",
         "source": "/images/eraimgs/1850s/norfolk.png"
       },
-    ]
+    ],
+    "about": "The mid-19th century saw Victorian fashion, characterized by wider skirts and hoop skirts for women, and frock coats and waistcoats for men."
   },
   '1920': {
     'images': [
@@ -85,8 +87,247 @@ const erasDatabase = {
         "description": "The decade's most famous women's hairstyle was the daring bob cut, with earlobe-length locks styled straight or curly.",
         "source": "/images/eraimgs/1920s/bob.png"
       },
-    ]
-  }
+      {
+        "description": "Because of the highly decorated clothing styles in 1920s fashion, jewelery was minimal in this decade. Many models are shown with only one items: perhaps a long string of pearls, wristwatch or pair of very simple pearl studs. Bangles, worn at the wrist or high on the upper arm were popular.",
+        "source": "/images/eraimgs/1920s/jewelry.png"
+      },
+      {
+        "description": "1920s fashion in makeup was highly influenced by films. This was the era of silent movies which were extremely popular. In these early times, film lighting was bright and film stock didn't pick up much detail so film stars (both 1920s men and women) had to really exaggerate their facial features for them to show up.",
+        "source": "/images/eraimgs/1920s/makeup.png"
+      },
+      {
+        "description": "Interestingly, the word “Flapper” was originally used around that time to describe a girl of about 13-19 and only became the term for this kind of woman gradually following the 1920 film “The Flapper”, which follows the misfortunes of a schoolgirl and her fall from grace.",
+        "source": "/images/eraimgs/1920s/misfortunes.png"
+      },
+      {
+        "description": "There were many rich Russian émigrés to Paris in the years preceding the 1920s, and their style greatly influenced the master couturiers. They favoured fur-trimmed clothing, and you'll see that widely on 1920s garments, and not only outwear.",
+        "source": "/images/eraimgs/1920s/russian.png"
+      },
+      {
+        "description": "The Western World was seized with Egyptomania when King Tutankhamun’s tomb was discovered in 1922. The Egyptian King appeared to be dressed in pure gold sequins and had nets of faience beads spread over him. Immediately sequins and beading became all the rage, as well as Ancient Egyptian style emblems and pictograms (which often didn’t make sense).",
+        "source": "/images/eraimgs/1920s/egyptian.png"
+      },
+    ],
+    "about": "The Roaring Twenties ushered in flapper fashion, featuring short skirts, loose dresses, and Art Deco influences with beaded embellishments."
+  },
+  '1930': {
+    'images': [
+      {
+        "description": "Joan Crawford in the famous dress from 'Letty Lynton' (1932)",
+        "source": "/images/eraimgs/1930s/lettylynton.png"
+      }, 
+      {
+        "description": "Myrna Loy, 1930s.",
+        "source": "/images/eraimgs/1930s/myrna.png"
+      },
+      {
+        "description": "Rita Hayworth, 1930s.",
+        "source": "/images/eraimgs/1930s/rita.png"
+      },
+      {
+        "description": "Vivien Leigh in Gone with the Wind, 1939.",
+        "source": "/images/eraimgs/1930s/vivien.png"
+      },
+      {
+        "description": "1930's Mae West.",
+        "source": "/images/eraimgs/1930s/mae.png"
+      },
+      {
+        "description": "In 1930s fashion It was still usual for the vast majority of women in England and Europe to sew their own and their household's clothes. Most working class women would have owned a sewing machine, and those middle class ones who didn’t picked out fabrics and designs they liked and took them to their dress maker.",
+        "source": "/images/eraimgs/1930s/sew.png"
+      },
+      {
+        "description": "Three afternoon dresses, 1931.",
+        "source": "/images/eraimgs/1930s/three.png"
+      },
+      {
+        "description": "Wedding dress in bias-cut silk with large self-coloured leaf design in contrast texture. The veil is decorated with gold rosettes.",
+        "source": "/images/eraimgs/1930s/wedding.png"
+      },
+      {
+        "description": "Daywear and eveningwear in 1930s fashion were full of flounces and decoration. Tailoring was in, and the silhouette was triangular, with shoulder pads in dresses and suit jackets alike. 1930s dresses were darted around the bust and fitted around the hips, falling to a straight skirt that often had gentle flutes through the insertion of bias-cut panels or pleats.",
+        "source": "/images/eraimgs/1930s/daywear.png"
+      },
+      {
+        "description": "In 1930s fashion, there was a brief trend for embroidered “Bulgarian” blouses in white cheesecloth, but this was positively simple compared to most blouses which seemed to come in every color but white and were wildly decorated.",
+        "source": "/images/eraimgs/1930s/bulgarian.png"
+      },
+      {
+        "description": "Sports suit.",
+        "source": "/images/eraimgs/1930s/sports.png"
+      },
+      {
+        "description": "Color spanned just about every combination in 1930s fashion, with the main rule being that outfits matched with a touch of the same color appearing on, say, a lapel, hatband, gloves, and shoes, or matching belt, embroidery on the dress, a hat-feather.",
+        "source": "/images/eraimgs/1930s/color.png"
+      },
+      {
+        "description": "Trapeze buttons on a 1938 Schiaparelli jacket.",
+        "source": "/images/eraimgs/1930s/trapeze.png"
+      },
+    ],
+    "about": "During the Great Depression, practical and tailored styles emerged, including bias-cut dresses for women and streamlined suits for men."
+  },
+  '1940': {
+    'images': [
+      {
+        "description": "British 1942 Berkertex Utility Fashions designed by Norman Hartnell. Photo James Jarche",
+        "source": "/images/eraimgs/1940s/berkertex.png"
+      }, 
+      {
+        "description": "Pages from Vogue, June 1941.",
+        "source": "/images/eraimgs/1940s/vogue.png"
+      },
+      {
+        "description": "1942. On the left is an original West End suit. On the right is a mass-produced Utility suit",
+        "source": "/images/eraimgs/1940s/utility.png"
+      },
+      {
+        "description": "All in one “Siren Suits”, a long-sleeved, hooded jumpsuit, were gladly worn in case the siren sounded. They were mainly for females, but Prime Minister Churchill had two..",
+        "source": "/images/eraimgs/1940s/siren.png"
+      },
+      {
+        "description": "Veronica Lake, the screen star, had a much copied “peekaboo” hairstyle, with a flick of her long hair poised seductively in front of one eye. Of course, the poor girls copying it couldn't see too well, so the Hollywood star was asked to change her hairstyle. This she did, sweeping it off her face in what became known as the Victory Roll.",
+        "source": "/images/eraimgs/1940s/victory.png"
+      },
+      {
+        "description": "Chanel Ad 1942.",
+        "source": "/images/eraimgs/1940s/chanel.png"
+      },
+      {
+        "description": "Princess Elizabeth gets married, 1947.",
+        "source": "/images/eraimgs/1940s/elizabeth.png"
+      },
+      {
+        "description": "Private Bill Krepper, Pioneer Corps tries his demob suit in front of a standing morror with a civilian tailor at the demobilization clothing depot, Olympia, London, between 1939 and 1945",
+        "source": "/images/eraimgs/1940s/demob.png"
+      },
+      {
+        "description": "French fashions for summer 1949",
+        "source": "/images/eraimgs/1940s/french.png"
+      },
+      {
+        "description": "Practical brown leather Oxford shoes, 1945.",
+        "source": "/images/eraimgs/1940s/oxford.png"
+      },
+      {
+        "description": "Furs for the French woman in 1949.",
+        "source": "/images/eraimgs/1940s/furs.png"
+      },
+      {
+        "description": "Stages of manufacturing wooden soled shoes, 1943.",
+        "source": "/images/eraimgs/1940s/manufacturing.png"
+      },
+      {
+        "description": "Betta St. John (left) & Deborah Kerr (right), ravishing with shorter hair in Dream Wife, 1953",
+        "source": "/images/eraimgs/1940s/dream.png"
+      },
+      {
+        "description": "Model wearing a black woollen utility Atrima dress in 1946",
+        "source": "/images/eraimgs/1940s/woollen.png"
+      },
+    ],
+    "about": "World War II influenced utilitarian fashion, with women donning A-line skirts and military-inspired details, while men wore military uniforms and conservative business attire."
+  },
+  '1950': {
+    'images': [
+      {
+        "description": "Glass showcase with women’s 1950s shoes made of leather and a scarf, 1953",
+        "source": "/images/eraimgs/1950s/showcase.png"
+      }, 
+      {
+        "description": "Pierre Balmain costume from fashion show, 1951",
+        "source": "/images/eraimgs/1950s/balmain.png"
+      },
+      {
+        "description": "Woman wearing 1950s mohair wool hat, 1957.",
+        "source": "/images/eraimgs/1950s/mohair.png"
+      },
+      {
+        "description": "Cristóbal Balenciaga cocktail gown, 1951",
+        "source": "/images/eraimgs/1950s/gown.png"
+      },
+      {
+        "description": "Woman in swimsuit in a car full of oranges, 1951",
+        "source": "/images/eraimgs/1950s/swimsuit.png"
+      },
+      {
+        "description": "Mary Jane Russell wearing dress by Nettie Rosenstein, 1952",
+        "source": "/images/eraimgs/1950s/russell.png"
+      },
+      {
+        "description": "Patti Page, 1955",
+        "source": "/images/eraimgs/1950s/patti.png"
+      },      
+    ],
+    "about": "Post-war styles in the 1950s showcased full skirts and cinched waists for women, and well-tailored suits with narrow ties for men."
+  },
+  '1960': {
+    'images': [
+      {
+        "description": "Teenagers in Carnaby Street, London, 1966",
+        "source": "/images/eraimgs/1960s/teenagers.png"
+      }, 
+      {
+        "description": "Studio photo of Sophie van Kleef, Dutch top model in the sixties, with a yellow fake fur hat. 1960",
+        "source": "/images/eraimgs/1960s/sophie.png"
+      },
+      {
+        "description": "Jacqueline Kennedy in Venezuela, 1961",
+        "source": "/images/eraimgs/1960s/kennedy.png"
+      },
+      {
+        "description": "Photo of Elizabeth Taylor from the film Cleopatra, 1963",
+        "source": "/images/eraimgs/1960s/cleopatra.png"
+      },
+      {
+        "description": "Saint Laurent Rive Gauche smoking evening suit",
+        "source": "/images/eraimgs/1960s/saintlaurent.png"
+      },
+      {
+        "description": "Knitted sweater dress, 1967",
+        "source": "/images/eraimgs/1960s/sweater.png"
+      },
+      {
+        "description": "The Big Ones of 68 paper dress by Universal Studios, American, 1968",
+        "source": "/images/eraimgs/1960s/universal.png"
+      }      
+    ],
+    "about": "The Swinging Sixties featured bold and diverse styles, including mini skirts and psychedelic patterns for women, and mod styles with slim-fitted suits for men."
+  },
+  '1970': {
+    'images': [
+      {
+        "description": "Judith Baragwanath photographed by Max Thomson in the Hill Thomas Jensen Studio, Auckland, NZ, in the early 1970s",
+        "source": "/images/eraimgs/1970s/baragwanath.png"
+      }, 
+      {
+        "description": "Original London punk rockers Tommy Dollar and the Sex Pistols, 1979",
+        "source": "/images/eraimgs/1970s/dollar.png"
+      },
+      {
+        "description": "Hot-pants advert, 1974",
+        "source": "/images/eraimgs/1970s/hotpants.png"
+      },
+      {
+        "description": "New Orleans Mardi Gras 1970",
+        "source": "/images/eraimgs/1970s/mardigras.png"
+      },
+      {
+        "description": "Flares and tank tops in 1974",
+        "source": "/images/eraimgs/1970s/flares.png"
+      },
+      {
+        "description": "Three women in Afro wigs ride on car in the Bud Billiken Parade, Chicago, 1973",
+        "source": "/images/eraimgs/1970s/wigs.png"
+      },
+      {
+        "description": "A more funky workwear look",
+        "source": "/images/eraimgs/1970s/funky.png"
+      }           
+    ],
+    "about": "The '70s brought bohemian, punk, and disco influences, with women embracing bell-bottom pants and maxi dresses, and men wearing wide-collared shirts and flared trousers."
+  },
+
 }
 
 export default erasDatabase;

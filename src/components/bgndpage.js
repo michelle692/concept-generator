@@ -27,6 +27,15 @@ const Bgndpage = () => {
           <p style={{ margin: '0' }}> CREATIVE USE OF </p>
           <p style={{ margin: '0' }}> <strong>{material.name}</strong> ELEMENTS </p>
         </div>
+          
+        <div className='bgnd-details-description'>
+          <p style={{ margin: '0' }}> UNVEILING A VISION </p>
+          <p style={{ margin: '0' }}> WHERE ART, HISTORY,</p>
+          <p style={{ margin: '0' }}> AND CRAFTSMANSHIP</p> 
+          <p style={{ margin: '0' }}> INTERTWINE TO</p>
+          <p style={{ margin: '0' }}> REDEFINE </p>
+          <p style={{ margin: '0' }}> MODERN STYLE </p>
+        </div>
 
         <button className="bgnd-button" onClick={regeneratePrompt}>
           GENERATE

@@ -20,7 +20,7 @@ const materialDatabase = {
         "source": "/images/materialimgs/fauxfur/fur6.png"
       },
     ], 
-    "about": "your mom"
+    "about": "Fur, a luxurious and natural material, is prized for its softness and texture, often utilized for its warmth in various applications."
   },
   'LEATHER': {
     "images": [
@@ -55,7 +55,7 @@ const materialDatabase = {
         "source": "/images/materialimgs/leather/leather10.png"
       },
     ], 
-    "about": "your mom"
+    "about": "Leather, a versatile and durable material, finds use across industries, known for its timeless appeal and ability to age gracefully, developing a unique patina over time."
   },
   'SILVER': {
     "images": [
@@ -78,7 +78,7 @@ const materialDatabase = {
         "source": "/images/materialimgs/silver/silver6.png"
       },
     ], 
-    "about": "your mom"
+    "about": "Silver, a precious metal, holds value beyond currency, commonly used for its lustrous appearance in jewelry and various applications, showcasing intricate designs and adding a touch of sophistication."
   },
 }
 

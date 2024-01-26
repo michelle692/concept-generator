@@ -31,6 +31,16 @@ const Moodpage = () => {
         <img src={img4} alt="" className="image-eight" />
         <img src={img9} alt="" className="image-nine" />
       </div>
+
+      <div className='artist-about'>
+        {artist.about}
+      </div>
+      <div className='era-about'>
+        {era.about}
+      </div>
+      <div className='material-about'>
+        {material.about}
+      </div>
     </div>
   );
 };
