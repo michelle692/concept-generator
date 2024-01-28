@@ -6,8 +6,10 @@ const Coverimg = () => {
   const { artist } = usePromptContext();
 
   return (
-    <img src={process.env.PUBLIC_URL + artist.cover.source} alt="" className='cover-image'>
-    </img>
+    <div className="cover-div">
+       <img src={process.env.PUBLIC_URL + artist.cover.source} alt="" className='cover-image' />
+      <p className="cover-text">{artist.cover.artwork}</p>
+    </div>
   )
 };
 

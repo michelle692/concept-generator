@@ -21,94 +21,166 @@ body {
   background-color: black;
 }
 
-.image-one {
+.image {
+  position: absolute;
+  overflow: hidden;
+  object-fit: cover;
+  transition: 0.5s;
+}
+
+.image-text {
+  position: absolute;
+  text-align: left;
+  font-size: 12px;
+  font-family: 'GFSDidot-Regular';
+  transition: 0.5s;
+  opacity: 0%;
+  padding-left: 10px;
+  padding-right: 5px;
+}
+
+.image-one-position {
   width: 188px;
   height: 246px;
-  position: absolute;
   top: 50px;
   left: 50px;
-  overflow: hidden;
-  object-fit: cover;
 }
 
-.image-two {
+.image-two-position {
   width: 311px;
   height: 397px;
-  position: absolute;
   top: 210px;
   left: 160px;
-  overflow: hidden;
-  object-fit: cover;
 }
 
-.image-three {
+.image-two-text {
+  width: 290px;
+  height: 150px;
+  top: 38%;
+}
+
+.image-two-div:hover .image-two {
+  opacity: 30%
+}
+
+.image-two-div:hover .image-two-text {
+  opacity: 100%
+}
+
+.image-three-position {
   width: 235px;
   height: 188px;
-  position: absolute;
   top: 40px;
   left: 350px;
-  overflow: hidden;
-  object-fit: cover;
 }
 
-.image-four {
+.image-three-div:hover .image-three {
+  opacity: 30%
+}
+
+.image-three-text {
+  width: 220px;
+  height: 160px;
+}
+
+.image-three-div:hover .image-three-text {
+  opacity: 100%
+}
+
+.image-four-position {
   width: 189px;
   height: 236px;
-  position: absolute;
   top: 520px;
   left: 20px;
-  overflow: hidden;
-  object-fit: cover;
 }
 
-.image-five {
+.image-five-position {
   width: 153px;
   height: 202px;
-  position: absolute;
   top: 570px;
   left: 430px;
-  overflow: hidden;
-  object-fit: cover;
 }
 
-.image-six {
+.image-five-div:hover .image-five {
+  opacity: 30%
+}
+
+.image-five-text {
+  width: 138px;
+  height: 150px;
+  top: 76%;
+}
+
+.image-five-div:hover .image-five-text {
+  opacity: 100%
+}
+
+.image-six-position {
   width: 246px;
   height: 312px;
-  position: absolute;
   top: 20px;
   left: 640px;
-  overflow: hidden;
-  object-fit: cover;
 }
 
-.image-seven {
+.image-six-div:hover .image-six {
+  opacity: 30%
+}
+
+.image-six-text {
+  width: 230px;
+  height: 290px;
+}
+
+.image-six-div:hover .image-six-text {
+  opacity: 100%
+}
+
+.image-seven-position {
   width: 235px;
   height: 200px;
-  position: absolute;
   top: 180px;
   left: 920px;
-  overflow: hidden;
-  object-fit: cover;
 }
 
-.image-eight {
+
+.image-seven-div:hover .image-seven {
+  opacity: 30%
+}
+
+.image-seven-text {
+  width: 220px;
+  height: 175px;
+}
+
+.image-seven-div:hover .image-seven-text {
+  opacity: 100%
+}
+
+.image-eight-position {
   width: 216px;
   height: 226px;
-  position: absolute;
   top: 410px;
   left: 930px;
-  overflow: hidden;
-  object-fit: cover;
 }
 
-.image-nine {
+.image-eight-div:hover .image-eight {
+  opacity: 30%
+}
+
+.image-eight-text {
+  width: 200px;
+  height: 200px;
+}
+
+.image-eight-div:hover .image-eight-text {
+  opacity: 100%
+}
+
+.image-nine-position {
   width: 214px;
   height: 285px;
-  position: absolute;
   top: 500px;
   left: 660px;
-  overflow: hidden;
-  object-fit: cover;
 }
 
 .artist-about {
@@ -119,7 +191,7 @@ body {
   top: 330px;
   left: 640px;
   font-size: 12px;
-  background-color: rgba(255, 255, 255, 0.7); /* Adjust the background color and opacity */
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 10px;
   z-index: 1;
 }
@@ -132,7 +204,7 @@ body {
   top: 50px;
   left: 900px;
   font-size: 12px;
-  background-color: rgba(255, 255, 255, 0.7); /* Adjust the background color and opacity */
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 10px;
   z-index: 1;
 }
@@ -145,7 +217,7 @@ body {
   top: 660px;
   left: 880px;
   font-size: 12px;
-  background-color: rgba(255, 255, 255, 0.7); /* Adjust the background color and opacity */
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 10px;
   z-index: 1;
 }

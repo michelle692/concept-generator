@@ -20,7 +20,7 @@ const Bgndpage = () => {
         <div className='bgnd-details-prompt'>
           <p style={{ margin: '0' }}> A COLLECTION </p>
           <p style={{ margin: '0' }}> INSPIRED BY </p>
-          <p style={{ margin: '0', fontSize: '14px'}}> <strong>{artist.name}</strong><strong>'S</strong></p> 
+          <p style={{ margin: '0' }}> <strong>{artist.name}</strong><strong>'S</strong></p> 
           <p style={{ margin: '0' }}> ARTWORK WITH </p>
           <p style={{ margin: '0' }}> THE ALLURE OF </p>
           <p style={{ margin: '0' }}> THE <strong>{era.name}</strong><strong>s</strong> AND </p>
