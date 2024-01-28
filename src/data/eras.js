@@ -30,7 +30,7 @@ const erasDatabase = {
         "source": "/images/eraimgs/1800s/queen.png"
       },
     ], 
-    "about": "In the early 19th century, women's fashion embraced high-waisted dresses with empire silhouettes, while men wore tailcoats and high-collared shirts."
+    "about": "1800s: In the early 19th century, women's fashion embraced high-waisted dresses with empire silhouettes, while men wore tailcoats and high-collared shirts."
   },
   '1850': {
     'images': [
@@ -63,7 +63,7 @@ const erasDatabase = {
         "source": "/images/eraimgs/1850s/norfolk.png"
       },
     ],
-    "about": "The mid-19th century saw Victorian fashion, characterized by wider skirts and hoop skirts for women, and frock coats and waistcoats for men."
+    "about": " 1850s: The mid-19th century saw Victorian fashion, characterized by wider skirts and hoop skirts for women, and frock coats and waistcoats for men."
   },
   '1920': {
     'images': [
@@ -108,7 +108,7 @@ const erasDatabase = {
         "source": "/images/eraimgs/1920s/egyptian.png"
       },
     ],
-    "about": "The Roaring Twenties ushered in flapper fashion, featuring short skirts, loose dresses, and Art Deco influences with beaded embellishments."
+    "about": "1920s: The Roaring Twenties ushered in flapper fashion, featuring short skirts, loose dresses, and Art Deco influences with beaded embellishments."
   },
   '1930': {
     'images': [
@@ -165,7 +165,7 @@ const erasDatabase = {
         "source": "/images/eraimgs/1930s/trapeze.png"
       },
     ],
-    "about": "During the Great Depression, practical and tailored styles emerged, including bias-cut dresses for women and streamlined suits for men."
+    "about": "1930s: During the Great Depression, practical and tailored styles emerged, including bias-cut dresses for women and streamlined suits for men."
   },
   '1940': {
     'images': [
@@ -226,7 +226,7 @@ const erasDatabase = {
         "source": "/images/eraimgs/1940s/woollen.png"
       },
     ],
-    "about": "World War II influenced utilitarian fashion, with women donning A-line skirts and military-inspired details, while men wore military uniforms and conservative business attire."
+    "about": "1940s: World War II influenced utilitarian fashion, with women donning A-line skirts and military-inspired details, while men wore military uniforms and conservative business attire."
   },
   '1950': {
     'images': [
@@ -259,7 +259,7 @@ const erasDatabase = {
         "source": "/images/eraimgs/1950s/patti.png"
       },      
     ],
-    "about": "Post-war styles in the 1950s showcased full skirts and cinched waists for women, and well-tailored suits with narrow ties for men."
+    "about": "1950s: Post-war styles in the 1950s showcased full skirts and cinched waists for women, and well-tailored suits with narrow ties for men."
   },
   '1960': {
     'images': [
@@ -292,7 +292,7 @@ const erasDatabase = {
         "source": "/images/eraimgs/1960s/universal.png"
       }      
     ],
-    "about": "The Swinging Sixties featured bold and diverse styles, including mini skirts and psychedelic patterns for women, and mod styles with slim-fitted suits for men."
+    "about": "1960s: The Swinging Sixties featured bold and diverse styles, including mini skirts and psychedelic patterns for women, and mod styles with slim-fitted suits for men."
   },
   '1970': {
     'images': [
@@ -325,7 +325,7 @@ const erasDatabase = {
         "source": "/images/eraimgs/1970s/funky.png"
       }           
     ],
-    "about": "The '70s brought bohemian, punk, and disco influences, with women embracing bell-bottom pants and maxi dresses, and men wearing wide-collared shirts and flared trousers."
+    "about": "1970s: The '70s brought bohemian, punk, and disco influences, with women embracing bell-bottom pants and maxi dresses, and men wearing wide-collared shirts and flared trousers."
   },
 
 }
