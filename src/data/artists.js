@@ -186,6 +186,156 @@ const artistDatabase = {
       }
     ],
     "about": "Vincent van Gogh, a Dutch Post-Impressionist painter, is celebrated for his expressive use of color, bold brushwork, and emotional intensity. His iconic works, such as 'Starry Night' and 'Sunflowers,' showcase van Gogh's unique style and artistic vision. Despite facing personal challenges, he left an indelible mark on the art world."
+  },
+  "SALVADOR DALÍ": {
+    "images": [
+      {
+        "artwork": "The Persistence of Memory (c. 1931)",
+        "source": "/images/artistimgs/dali/persistence.png"
+      },
+      {
+        "artwork": "Swans Reflecting Elephants (c. 1937)",
+        "source": "/images/artistimgs/dali/reflecting.png"
+      },
+      {
+        "artwork": "The Elephants (c. 1948)",
+        "source": "/images/artistimgs/dali/elephants.png"
+      },
+      {
+        "artwork": "Galatea of the Spheres (c. 1952)",
+        "source": "/images/artistimgs/dali/galatea.png"
+      },
+      {
+        "artwork": "Christ of Saint John of the Cross (c. 1951)",
+        "source": "/images/artistimgs/dali/christ.png"
+      }
+    ],
+    "about": "Salvador Dalí was a Spanish Surrealist painter known for his eccentric and imaginative works. Dalí's paintings often feature dreamlike, distorted imagery and symbolism. One of his most famous works is 'The Persistence of Memory,' featuring melting clocks."
+  },
+  "CLAUDE MONET": {
+    "images": [
+      {
+        "artwork": "Water Lilies and Japanese Bridge (c. 1899)",
+        "source": "/images/artistimgs/monet/lilies.png"
+      },
+      {
+        "artwork": "Impression, Sunrise (c. 1872)",
+        "source": "/images/artistimgs/monet/impression.png"
+      },
+      {
+        "artwork": "Woman with a Parasol - Madame Monet and Her Son (c. 1875)",
+        "source": "/images/artistimgs/monet/parasol.png"
+      },
+      {
+        "artwork": "Haystacks Series: Snow Effect (c. 1891)",
+        "source": "/images/artistimgs/monet/haystacks.png"
+      },
+      {
+        "artwork": "Rouen Cathedral, West Façade (c. 1894)",
+        "source": "/images/artistimgs/monet/cathedral.png"
+      }
+    ],
+    "about": "Claude Monet, a French Impressionist painter, is known for his landscape paintings and innovative use of color and light. Monet's series of paintings, including 'Water Lilies' and 'Haystacks,' showcase his fascination with capturing the changing effects of light and atmosphere."
+  },
+  "ARTEMISIA LOMI": {
+    "images": [
+      {
+        "artwork": "Self-Portrait as the Allegory of Painting (c. 1638-1639)",
+        "source": "/images/artistimgs/lomi/selfportrait.png"
+      },
+      {
+        "artwork": "Susanna and the Elders (c. 1610)",
+        "source": "/images/artistimgs/lomi/susanna.png"
+      },
+      {
+        "artwork": "Judith and Her Maidservant (c. 1625)",
+        "source": "/images/artistimgs/lomi/maidservant.png"
+      },
+      {
+        "artwork": "Esther before Ahasuerus (c. 1628)",
+        "source": "/images/artistimgs/lomi/esther.png"
+      },
+      {
+        "artwork": "Mary Magdalene (c. 1620-1625)",
+        "source": "/images/artistimgs/lomi/marymagdalene.png"
+      }
+    ],
+    "about": "Artemisia Lomi, an Italian Baroque painter, was one of the few female artists of her time to gain recognition. Her powerful and dramatic paintings often depicted strong, heroic women from mythology and the Bible. One of her well-known works is 'Susanna and the Elders,' showcasing her mastery of narrative storytelling."
+  },
+  "MARC CHAGALL": {
+    "images": [
+      {
+        "artwork": "I and the Village (c. 1911)",
+        "source": "/images/artistimgs/chagall/village.png"
+      },
+      {
+        "artwork": "The Birthday (c. 1915)",
+        "source": "/images/artistimgs/chagall/birthday.png"
+      },
+      {
+        "artwork": "The Green Violinist (c. 1923-1924)",
+        "source": "/images/artistimgs/chagall/violinist.png"
+      },
+      {
+        "artwork": "The Acrobat (c. 1930)",
+        "source": "/images/artistimgs/chagall/acrobat.png"
+      },
+      {
+        "artwork": "The Promenade (c. 1917-1918)",
+        "source": "/images/artistimgs/chagall/promenade.png"
+      }
+    ],
+    "about": "Marc Chagall, a Russian-French artist, was a pioneer of modern art. His works often blend elements of Cubism, Symbolism, and Fauvism. Chagall's art is known for its dreamlike quality, vibrant colors, and recurring motifs such as flying figures and animals."
+  },
+  "EGON SCHIELE": {
+    "images": [
+      {
+        "artwork": "Self-Portrait with Physalis (c. 1912)",
+        "source": "/images/artistimgs/schiele/physalis.png"
+      },
+      {
+        "artwork": "Portrait of Wally Neuzil (c. 1912)",
+        "source": "/images/artistimgs/schiele/wally.png"
+      },
+      {
+        "artwork": "Seated Woman with Legs Drawn Up (c. 1917)",
+        "source": "/images/artistimgs/schiele/seatedwoman.png"
+      },
+      {
+        "artwork": "Four Trees (c. 1917)",
+        "source": "/images/artistimgs/schiele/fourtrees.png"
+      },
+      {
+        "artwork": "Houses with Laundry (c. 1915)",
+        "source": "/images/artistimgs/schiele/houses.png"
+      }
+    ],
+    "about": "Egon Schiele, an Austrian painter, was a key figure in the Expressionist movement. His works, characterized by their raw emotion and distorted forms, often focused on the human figure. Schiele's art is known for its provocative and intense exploration of the human psyche."
+  },
+  "JEAN-MICHEL BASQUIAT": {
+    "images": [
+      {
+        "artwork": "Boy and Dog in a Johnnypump (c. 1982)",
+        "source": "/images/artistimgs/basquiat/boydog.png"
+      },
+      {
+        "artwork": "Irony of Negro Policeman (c. 1981)",
+        "source": "/images/artistimgs/basquiat/irony.png"
+      },
+      {
+        "artwork": "Hollywood Africans (c. 1983)",
+        "source": "/images/artistimgs/basquiat/hollywood.png"
+      },
+      {
+        "artwork": "Untitled (Skull) (c. 1981)",
+        "source": "/images/artistimgs/basquiat/skull.png"
+      },
+      {
+        "artwork": "Fallen Angel (c. 1981)",
+        "source": "/images/artistimgs/basquiat/fallenangel.png"
+      }
+    ],
+    "about": "Jean-Michel Basquiat, an American artist, emerged from the New York City art scene in the late 1970s. His graffiti-influenced Neo-expressionist style often incorporated text and symbols. Basquiat's works address issues of race, identity, and social injustice."
   }
 }
 
