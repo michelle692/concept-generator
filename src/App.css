@@ -25,3 +25,9 @@
   color: rgb(0, 0, 0);
 }
 
+.cover-container {
+  width: 850px;
+  height: 800px;
+  margin-left: 8%;
+}
+

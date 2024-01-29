@@ -11,9 +11,11 @@ function Cover() {
       <div className="App">
         <header className="App-header">
           <History/>
-          <Bgndpage/>
-          <Coverimg/>
-          <Nextbtn/>
+          <div className='cover-container'>
+            <Bgndpage/>
+            <Coverimg/>
+            <Nextbtn/>
+          </div>
         </header>
       </div>
   );

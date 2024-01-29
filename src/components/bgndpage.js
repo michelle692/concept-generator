@@ -8,9 +8,9 @@ const Bgndpage = () => {
 
   return (
     <div className='bgnd-page'>
-      <header className='bgnd-header'>
+      <div className='bgnd-header'>
         RE-ENVISIONING <br /> FASHION
-      </header>
+      </div>
 
       <div className='bgnd-details'>
         <p className='bgnd-details-edition-text'>

@@ -8,15 +8,15 @@ body {
   width: 615px;
   height: 800px;
   background-color: white;
-  position: absolute;
-  margin-right: 10%;
+  position: relative;
+  /* margin-right: 10%; */
 }
 
 .bgnd-header {
   text-align: right;
   font-size: 48px;
-  margin-top: 3%;
   margin-right: 3%;
+  padding-top: 4%;
   font-family: 'GFSDidot-Regular';
 }
 
