@@ -327,7 +327,160 @@ const erasDatabase = {
     ],
     "about": "1970s: The '70s brought bohemian, punk, and disco influences, with women embracing bell-bottom pants and maxi dresses, and men wearing wide-collared shirts and flared trousers."
   },
-
+  '1980': {
+    'images': [
+      {
+        "description": "Jane Fonda turned jazzercise into an aesthetic before styles were even described as aesthetics. But no '80s workout outfit is complete without a set of chunky leg warmers",
+        "source": "/images/eraimgs/1980s/fonda.png"
+      }, 
+      {
+        "description": "80’s blue denim dress worn at fashion show, 1985",
+        "source": "/images/eraimgs/1980s/denim.png"
+      },
+      {
+        "description": "Polka dots were loved and worn by everyone from Sade to Princess Diana to Madonna, and marked a distinct difference from the disco looks of the '70s.",
+        "source": "/images/eraimgs/1980s/dots.png"
+      },
+      {
+        "description": "When the boy band Bros came along with their jeans ripped at the knee worn with “clock” loafers, teens up and down the country enthusiastically took the scissors to their jeans too and ripped, frayed and shredded them, and when disintegrated entirely, cut them into knee-length shorts instead.",
+        "source": "/images/eraimgs/1980s/bros.png"
+      },
+      {
+        "description": "No opulent '80s look was complete without a long set of elegant gloves. Worn most often with formal dresses, the trend is becoming popular again",
+        "source": "/images/eraimgs/1980s/gloves.png"
+      },
+      {
+        "description": "No one did colorful '80s glam quite like singer Cyndi Lauper. From the bold prints, bright red hair, and always-edgy accessories, her signature aesthetic is distinct to the era",
+        "source": "/images/eraimgs/1980s/lauper.png"
+      },
+      {
+        "description": "Argentine LGBT activist Claudia Pía Baudracco in the 1980s. Trans Memory Archive.",
+        "source": "/images/eraimgs/1980s/baudracco.png"
+      },
+      {
+        "description": "From 80's prom style to moms at a party, every woman had a shiny lamé dress with ruffles and quite possibly off one shoulder. Lamé dresses were worn in dazzling colors, paired with high-heel pumps and accessories.",
+        "source": "/images/eraimgs/1980s/lame.png"
+      },
+      {
+        "description": "A model in a little black dress complete with pink pouf detailing at Yves Saint Laurent's runway show during Paris Fashion Week circa 1987.",
+        "source": "/images/eraimgs/1980s/saintlaurent.png"
+      },
+      {
+        "description": "Opulence and the '80s go hand in hand, as depicted with iconic supermodel Naomi Campbell walking down the YSL runway in a tufted metallic cocktail dress.",
+        "source": "/images/eraimgs/1980s/campbell.png"
+      },
+      {
+        "description": "Punk rock flourished in London—with fishnets, chains, and studs as the go-to accessories. Worn alongside leather separates and easy silhouettes, the looks are quintessentially '80s.",
+        "source": "/images/eraimgs/1980s/punk.png"
+      },
+      {
+        "description": "One of the more luxe aesthetics to come from the '80s, the classic country club look was made popular by the likes of Karyn Parson's character Hilary Banks on the popular television show at the time The Fresh Prince of Bel-Air.",
+        "source": "/images/eraimgs/1980s/countryclub.png"
+      },
+      {
+        "description": "From the movie 'Heathers', a 1988 American teen black comedy film written by Daniel Waters and directed by Michael Lehmann.",
+        "source": "/images/eraimgs/1980s/heathers.png"
+      }, 
+      {
+        "description": "The lead singer of The Runaways, Joan Jett showing how people in the 80s weren't afraid of wearing multiple trends at once. Clashing prints, extreme haircut, full-glam makeup, and extra accessorizing.",
+        "source": "/images/eraimgs/1980s/jett.png"
+      }                
+    ],
+    "about": "1980s: The fashion of the '80s was characterized by bold and vibrant styles, from neon colors to oversized accessories. Iconic trends included shoulder pads, leg warmers, and glamorous evening wear."
+  },
+  '1990': {
+    'images': [
+      {
+        "description": "Kate Moss at the CFDA Fashion Awards in New York, February 1995.",
+        "source": "/images/eraimgs/1990s/moss.png"
+      }, 
+      {
+        "description": "Naomi Campbell walking for Chanel in Paris on October 17, 1994.",
+        "source": "/images/eraimgs/1990s/chanel.png"
+      },
+      {
+        "description": "In a now-iconic clip from the Todd Oldham fashion show in 1994, Shalom Harlow overtakes fellow supermodel Amber Valletta on the runway in this micro mini skirt.",
+        "source": "/images/eraimgs/1990s/harlow.png"
+      },
+      {
+        "description": "Alicia Silverstone's Preppy Ensemble in 1995.",
+        "source": "/images/eraimgs/1990s/silverstone.png"
+      },
+      {
+        "description": "Halle Berry, 1998",
+        "source": "/images/eraimgs/1990s/berry.png"
+      },
+      {
+        "description": "The sitcom itself provided quintessential examples of mid- and late-90s fashion, with Jennifer Aniston’s Rachel and her famed haircut leading the pack. Naomi Campbell and Tyra Banks also helped set style standards. The men, meanwhile, were broody and their disheveled looks embodied casual dressing, with a penchant for leather jackets, white tees and minimal tailoring.",
+        "source": "/images/eraimgs/1990s/sitcom.png"
+      },
+      {
+        "description": "Actress Kirsten Dunst attends the 'Wag the Dog' Century City Premiere on December 17, 1997.",
+        "source": "/images/eraimgs/1990s/dunst.png"
+      },
+      {
+        "description": "From biker-chic leather jackets to sleek slip dresses, the '90s were an exciting time for fashion on and off the red carpet. Stars like Naomi Campbell, Winona Ryder, Halle Berry, and Gwyneth Paltrow defined the culture by elevating casual looks.",
+        "source": "/images/eraimgs/1990s/dresses.png"
+      },
+      {
+        "description": "Toni Braxton and Dennis Rodman's Sleek Looks in 1996",
+        "source": "/images/eraimgs/1990s/braxton.png"
+      },
+      {
+        "description": "Winona Ryder, 1992",
+        "source": "/images/eraimgs/1990s/ryder.png"
+      },
+      {
+        "description": "The most recognisable of Vivienne Westwood’s creations is probably her MacAndreas tartan which was developed as part of her 1993 Anglomania collection. It was an ode to her husband and design partner Andreas Kronthaler.",
+        "source": "/images/eraimgs/1990s/westwood.png"
+      },
+      {
+        "description": "This dramatic motorcycle-inspired bustier from Mugler’s spring 1992 show was fashionable, if not wearable, and has since been celebrated for its fierce theatricality.",
+        "source": "/images/eraimgs/1990s/mugler.png"
+      },
+      {
+        "description": "Winona Ryder embodied '90s grunge with this edgy ensemble, styling a leather jacket with a graphic tee and fitted jeans while attending the premiere of The Commitments.",
+        "source": "/images/eraimgs/1990s/grunge.png"
+      }, 
+      {
+        "description": "Janet Jackson celebrated her sold-out concert tour in 1994 by pairing a timeless cropped turtleneck with distressed jeans for a street-chic look.",
+        "source": "/images/eraimgs/1990s/jackson.png"
+      },
+      {
+        "description": "The baggy and tight clothing combo was a '90s trend Aaliyah owned. The reflective jacket interior with the matching strappy bikini top was a futuristic fashion statement.",
+        "source": "/images/eraimgs/1990s/aaliyah.png"
+      },
+      {
+        "description": "Naomi Campbell, 1997",
+        "source": "/images/eraimgs/1990s/campbell.png"
+      },
+      {
+        "description": "Princess Diana's Revenge Dress in 1994",
+        "source": "/images/eraimgs/1990s/diana.png"
+      },
+      {
+        "description": "Grace Jones, 1990",
+        "source": "/images/eraimgs/1990s/jones.png"
+      },
+      {
+        "description": "Carolyn Bessette-Kennedy, 1996",
+        "source": "/images/eraimgs/1990s/carolyn.png"
+      },
+      {
+        "description": "Mary-Kate and Ashley Olsen, 1999",
+        "source": "/images/eraimgs/1990s/olsen.png"
+      },
+      {
+        "description": "Christy Turlington, 1993",
+        "source": "/images/eraimgs/1990s/turlington.png"
+      },
+      {
+        "description": "Gwen Stefani, 1998 The '90s grunge queen's combination of wide-leg, cuffed pants, and lug-sole boots feel very modern-day Marc Jacobs.",
+        "source": "/images/eraimgs/1990s/stefani.png"
+      }               
+    ],
+    "about": "1990s: The fashion of the '90s was defined by a mix of grunge, minimalism, and glamorous red carpet looks. Influenced by iconic figures, the decade saw a diverse range of styles, from baggy streetwear to sleek slip dresses."
+  }
 }
 
 export default erasDatabase;

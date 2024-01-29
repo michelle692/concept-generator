@@ -21,7 +21,6 @@ const materialDatabase = {
       { "source": "/images/materialimgs/leather/leather7.png" },
       { "source": "/images/materialimgs/leather/leather8.png" },
       { "source": "/images/materialimgs/leather/leather9.png" },
-      { "source": "/images/materialimgs/leather/leather10.png" }
     ],
     "about": "Leather, a versatile and durable material, finds use across industries, known for its timeless appeal and ability to age gracefully, developing a unique patina over time."
   },
@@ -146,6 +145,74 @@ const materialDatabase = {
     ],
     "about": "Bronze, an alloy of copper and tin, is valued for its durability and historical significance, commonly used in sculptures, tools, and decorative items."
   },
+  "VELVET": {
+    "images": [
+      { "source": "/images/materialimgs/velvet/velvet1.png" },
+      { "source": "/images/materialimgs/velvet/velvet2.png" },
+      { "source": "/images/materialimgs/velvet/velvet3.png" },
+      { "source": "/images/materialimgs/velvet/velvet4.png" },
+      { "source": "/images/materialimgs/velvet/velvet5.png" },
+      { "source": "/images/materialimgs/velvet/velvet6.png" },
+      { "source": "/images/materialimgs/velvet/velvet7.png" }
+    ],
+    "about": "Velvet, a luxurious fabric with a soft and plush surface, is known for its rich appearance and tactile appeal, making it a popular choice in high-end fashion, upholstery, and elegant home decor."
+  },  
+  "LATEX": {
+    "images": [
+      { "source": "/images/materialimgs/latex/latex1.png" },
+      { "source": "/images/materialimgs/latex/latex2.png" },
+      { "source": "/images/materialimgs/latex/latex3.png" },
+      { "source": "/images/materialimgs/latex/latex4.png" },
+      { "source": "/images/materialimgs/latex/latex5.png" },
+      { "source": "/images/materialimgs/latex/latex6.png" }
+    ],
+    "about": "Latex, a versatile and stretchable material, is known for its form-fitting properties, commonly used in various industries for creating sleek and modern designs, as well as in the production of specialized products like gloves and balloons."
+  },
+  "LACE": {
+    "images": [
+      { "source": "/images/materialimgs/lace/lace1.png" },
+      { "source": "/images/materialimgs/lace/lace2.png" },
+      { "source": "/images/materialimgs/lace/lace3.png" },
+      { "source": "/images/materialimgs/lace/lace4.png" },
+      { "source": "/images/materialimgs/lace/lace5.png" },
+    ],
+    "about": "Lace, an intricate and delicate fabric with openwork patterns, is celebrated for its romantic and feminine aesthetic. Widely used in fashion and decorative applications, lace adds a touch of elegance and sophistication to various designs."
+  },
+  "ORGANZA": {
+    "images": [
+      { "source": "/images/materialimgs/organza/organza1.png" },
+      { "source": "/images/materialimgs/organza/organza2.png" },
+      { "source": "/images/materialimgs/organza/organza3.png" },
+      { "source": "/images/materialimgs/organza/organza4.png" },
+      { "source": "/images/materialimgs/organza/organza5.png" },
+      { "source": "/images/materialimgs/organza/organza6.png" },
+      { "source": "/images/materialimgs/organza/organza7.png" }
+    ],
+    "about": "Organza, a sheer and lightweight fabric, is prized for its crisp and smooth texture. Often used in formal wear, bridal gowns, and decorative applications, organza adds an ethereal and graceful quality to various designs."
+  },
+  "DENIM": {
+    "images": [
+      { "source": "/images/materialimgs/denim/denim1.png" },
+      { "source": "/images/materialimgs/denim/denim2.png" },
+      { "source": "/images/materialimgs/denim/denim3.png" },
+      { "source": "/images/materialimgs/denim/denim4.png" },
+      { "source": "/images/materialimgs/denim/denim5.png" }
+    ],
+    "about": "Denim, a sturdy and versatile cotton fabric, is recognized for its durable twill weave and indigo dye. Widely used in casual and fashion apparel, denim provides a rugged yet stylish look with a timeless appeal."
+  },
+  "MOHAIR": {
+    "images": [
+      { "source": "/images/materialimgs/mohair/mohair1.png" },
+      { "source": "/images/materialimgs/mohair/mohair2.png" },
+      { "source": "/images/materialimgs/mohair/mohair3.png" },
+      { "source": "/images/materialimgs/mohair/mohair4.png" },
+      { "source": "/images/materialimgs/mohair/mohair5.png" },
+      { "source": "/images/materialimgs/mohair/mohair6.png" },
+      { "source": "/images/materialimgs/mohair/mohair7.png" }
+    ],
+    "about": "Mohair, a luxurious and silky fiber from Angora goats, is cherished for its softness, sheen, and warmth. Commonly used in high-end fashion and textiles, mohair adds a touch of elegance and sophistication to various creations."
+  }
+  
 }
 
 export default materialDatabase;
